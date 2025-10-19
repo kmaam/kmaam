@@ -2,7 +2,7 @@
 
 ### developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/kmaam&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/kmaam" /> </p>
+ 
 
 - 🔭 I'm currently working on **A MERN Stack project**
 
