@@ -1,42 +1,21 @@
-## Hi there! 👋
-
-I'm Abdihakim, a junior software engineer passionate about creating efficient and innovative solutions. Let's build something great together!
-
-## About Me
-
+# 💫 About Me:
 I am a junior software engineer with a focus on web development. Currently, I live in [Your Location] and am eager to take on new challenges and grow my skills in the tech industry.
 
-## Skills & Technologies
 
-c,html,css,react,nodejs,express,docker,mongodb,flask,git,github,java,flutter
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kmaam&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kmaam&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmaam&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Top Projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kmaam&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-- [kmaam](https://github.com/kmaam/kmaam) - A personal project repository showcasing my work. ⚡ Stars: 0, Language: Unknown.
-- [profile](https://github.com/kmaam/profile) - My profile repository where I keep track of my achievements. 🌟 Stars: 3, Language: Unknown.
-- [alx-low_level_programming](https://github.com/kmaam/alx-low_level_programming) - A collection of low-level programming tasks in C. 🌟 Stars: 2, Language: C.
-- [dynamic-to-do-list-js](https://github.com/kmaam/dynamic-to-do-list-js) - An advanced JavaScript application for task management. 🌟 Stars: 0, Language: JavaScript.
-- [TechCon_HTML](https://github.com/kmaam/TechCon_HTML) - Building the homepage for the TechCon 2024 Conference. 🌟 Stars: 0, Language: HTML.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kmaam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## GitHub Stats
+---
+[![](https://visitcount.itsvg.in/api?id=kmaam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📈 **Public Repositories:** 29
-👥 **Followers:** 26
-➡️ **Following:** 129
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmaam&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Pushed to [kmaam/kmaam](https://github.com/kmaam/kmaam) on 2025-10-21.
-- Pushed to [kmaam/profile](https://github.com/kmaam/profile) on 2025-10-02.
-- Pushed to [kmaam/alx-low_level_programming](https://github.com/kmaam/alx-low_level_programming) on 2023-09-29.
-- Created a new repository [kmaam/MVP](https://github.com/kmaam/MVP) on 2025-06-07.
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts, but I'm looking forward to sharing my thoughts and projects soon!
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/abdihakim-ahmed-24a198228/"}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
