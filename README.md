@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am software engineer with a focus on web development. Currently, I live in Somaliland and am eager to take on new challenges and grow my skills in the tech industry.
+I am software engineer with a focus on web development. I live in Somaliland and am eager to take on new challenges and grow my skills in the tech industry.
 
 
 # 💻 Tech Stack:
